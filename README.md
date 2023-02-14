@@ -2,7 +2,7 @@
 
 Segundo Projeto de AED
 
-Nota: 19
+Nota: 17
 
 André Oliveira
 
